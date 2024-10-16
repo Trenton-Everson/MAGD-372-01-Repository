@@ -1,5 +1,9 @@
 
+<<<<<<<< HEAD:FinalProjectMAGDIntro/Logs/Packages-Update.log
 === Mon Sep 30 10:19:57 2024
+========
+=== Wed Sep 11 14:34:55 2024
+>>>>>>>> dac1c0f19c9878ff7e95e9043d631c91a8e975a0:Assignment 3 - Trenton Everson/Something/Logs/Packages-Update.log
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -37,6 +41,7 @@ The following packages were added:
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
 The following packages were updated:
+<<<<<<<< HEAD:FinalProjectMAGDIntro/Logs/Packages-Update.log
   com.unity.collab-proxy from version 2.0.0 to 2.2.0
   com.unity.feature.2d from version 1.0.0 to 2.0.0
   com.unity.ide.rider from version 3.0.18 to 3.0.27
@@ -44,3 +49,8 @@ The following packages were updated:
   com.unity.render-pipelines.universal from version 14.0.6 to 14.0.10
   com.unity.timeline from version 1.7.3 to 1.7.6
   com.unity.visualscripting from version 1.8.0 to 1.9.1
+========
+  com.unity.collab-proxy from version 1.13.5 to 2.4.4
+  com.unity.timeline from version 1.6.2 to 1.7.6
+  com.unity.visualscripting from version 1.7.6 to 1.9.4
+>>>>>>>> dac1c0f19c9878ff7e95e9043d631c91a8e975a0:Assignment 3 - Trenton Everson/Something/Logs/Packages-Update.log
