@@ -1,0 +1,2806 @@
+fileFormatVersion: 2
+guid: d857a825c5f63c04199aa7e92ec1fa9e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite sheet example cropped_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0874fd3d1dbf8a44a41910753adec5e
+      internalID: 1399348094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de7b833c11ca31498cab2be45f1813a
+      internalID: -869388317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9278c149c5c177a488b2d19a38850d12
+      internalID: -642913254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6ec4f65e89bb408a0734742ee46b8
+      internalID: -1920602969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b09950ad1cacd44b14ca148264b31a
+      internalID: -401879599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a85e7c2c344f4ea95af984e8671cc
+      internalID: 2040416784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00300d8eaad3ba40a7558bc6718bc72
+      internalID: -1088345516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e190459d1b41948b0e4cdc05c0b4bd
+      internalID: -334346040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790255df637c37d41b5a1cd98079d8a1
+      internalID: -243971936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574cf23ada90974581b4a91f50aca5c
+      internalID: 624223596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87df206fb68874ab265cbc019821c4
+      internalID: 830893690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da19cc3ccebae64d8fdefb60b9135e5
+      internalID: 899092369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058edb3d8815da54f9c393a390797b68
+      internalID: -1346311310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_13
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928084c318b8535418110bb01ba6d819
+      internalID: -269616400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76920edbc13a87d4ebd5521c78d79e90
+      internalID: -1386912122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb70442a97718674592a36b433c65cca
+      internalID: -1519119060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4d1af4930139458fb0c77e1075340
+      internalID: 374874245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b137d4fa5b00c468a007fa3305c921
+      internalID: 72128698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca71ed37c6a6514482c7d0a1eb72097
+      internalID: -1764585450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a860f7ee121bb84bad05998daef607b
+      internalID: -1382787935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ea5c80ae2a007489d0725507a7a035
+      internalID: 1480394549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_21
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a03aa0a560594f83fb38643388139
+      internalID: -902144509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99766248e77f74eb352015127f02da
+      internalID: -1296764471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_23
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 341.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dfe6b98247c074baa18740d5f0032a
+      internalID: 651438609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e89d4675f3cb94da9588cb0769c2d9
+      internalID: -739331630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61c7855a158314eaf74a38312235bf
+      internalID: -1777656913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce468440645dea409cd3fd1250af8c0
+      internalID: 5065605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdc17bc6518be34494da379eac2513f
+      internalID: -320792709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92cfc76299895d42ac83879d76282db
+      internalID: -532862327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6053da9d3fede848a1d782d5d17c2f0
+      internalID: -1713991282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac76cf000ebf0640a32fa4299dbff80
+      internalID: 518697200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f622d853a816438e45231dc5dbf32
+      internalID: 1154697732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2816660f64a5eb48ade22191c4f78da
+      internalID: -898115889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_33
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac0f8575e87cb4198bb492b03c8c8f
+      internalID: -1722685545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e65956205cb34b9a071b796cf233d
+      internalID: -1557181333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db64332138bcad9439f692c6f71a0c81
+      internalID: 1139513522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_36
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bda0f337635e4a9d6648d0bcbc108
+      internalID: 1161738524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba0d19542433f42920bca99f51e734
+      internalID: -1219768078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_38
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73843ac4ea9eac4caa3b81f130db864
+      internalID: -1030642971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_39
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e437d4d5bc1bd6489d620e74e79fab3
+      internalID: -1329942734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_40
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3462919d85ecd0468fb07ee3a5c16ab
+      internalID: 1753087619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_41
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46a13bb7c2089341bd2d38d93849d15
+      internalID: -1219419767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_42
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a0413ab211f44ea326164e88ba9d4
+      internalID: -187666469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755fb99116460f4ebeadd4b537679f9
+      internalID: 1358252971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_44
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396af82486a623c4b875894624b24942
+      internalID: 1110701178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_45
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387d2928b56f094fa2daab7c41a834e
+      internalID: 758236321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_46
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b915b82ce20a7241a9de410d92393cc
+      internalID: -1961968943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_47
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 256.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ee9b205763844ca372a92778f625e
+      internalID: 1024932683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cf6822f47501f4e8c0f5483420983e
+      internalID: 1518624557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183bc440c6537444b0c07bba9ec5076
+      internalID: -2037438990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6415b5030c841c4d98eab10272fbce5
+      internalID: 2007170114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c99a5cf1d3c646b813a9b1ed0e063
+      internalID: 449716341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce350d4f1c8cf744b562a0996d781e7
+      internalID: -692493764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7efa9f744b0c468a2bcde1b9492b9
+      internalID: 1843379764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b9d757bf7af348b122023adde0653
+      internalID: -571001821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2baa3dda0c044e4ebf80bf41dd6a6c2
+      internalID: -1781468357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ee5ead80b62e4aae23b10e957beaf
+      internalID: 574738929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda91674399bad47968b625b5b18f69
+      internalID: -1771948367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed25a8598661b49a89c2e54d518af9
+      internalID: -536170465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b85b6468e0c724997980371ea49181
+      internalID: 220557291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_60
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4216238fdf51fa4f9330e9506801ced
+      internalID: 1619041379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_61
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997a6577d891194b92a79af1072d784
+      internalID: -1712153663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_62
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f094e5d2731a34b9bab8314bc70257
+      internalID: -840967664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_63
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f67b5b5fdae24d914402bdc59f743
+      internalID: -199581314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_64
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24168bd0ae1927d4588715e692817f4a
+      internalID: -2101246120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_65
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de598ac374097541bf974175e9dc0b3
+      internalID: -1756792613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_66
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96308cf861d71c243b2fe423c3d7a539
+      internalID: -998009352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_67
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78774b99c1f8f41a3bb13ede26cc00
+      internalID: 1061631900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f8a004c593ce459032995e3d7cddb
+      internalID: -1612635589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_69
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9cc349fca36844be27b21ec28f660
+      internalID: 1453622249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_70
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6ec827eb05674a81518d4da77481c
+      internalID: -366251300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_71
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 171.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85bf5d11fce5a469d14bbb51fc495a
+      internalID: 687011487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8f411f8c1bc144a0ea23e64ecdd8d
+      internalID: -343393583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abbb18e35bf8154583271b0730db5f7
+      internalID: 164334580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f73d8b215be14ea4d673ab5d72a7a
+      internalID: 465929887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_75
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e31cfc52197ad841814a6c43267902a
+      internalID: -1987049004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be124d44dd653114c982640b4acbb242
+      internalID: 1497769786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_77
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd879144f1b7f46b40d266b6673963
+      internalID: -2094389363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6855c47b78741b14b95e6d62980c2329
+      internalID: -1720614305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_79
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8002222b877a24185beae263f5ea28
+      internalID: 598433923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65581c8e49d9eb54f8bbd5f6302cce8f
+      internalID: -1073248534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c1c3105000c945a30755e35d374bb
+      internalID: 537773386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_82
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8097fc2b3484a48bfa6aadc4bb17af
+      internalID: 262769023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_83
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19d3af99b754b4c9123fb1c12ebe8a
+      internalID: 1918541506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_84
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d3334c5fe653a468f26dec611eeab2
+      internalID: -4654543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_85
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684671ca6ed9134fbacf2ab977ccbd2
+      internalID: 885750985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_86
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a81eca890c9147bb063ac18e21120
+      internalID: -1155523174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_87
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ca1a993ffac04581a6b27cfc26cc2
+      internalID: -1679751741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_88
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a41a7b78fb3924f92c89bc57a3497b
+      internalID: 757996443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_89
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd30b1f36f4bae2418fdaa983acc7944
+      internalID: -613598781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_90
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15218d0f243054d46ae886593dadcfb8
+      internalID: 2080466594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_91
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216207d9cbe07fa4a940cf559c4b5c80
+      internalID: 720303933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_92
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d21a9a0a8e0d4bb5e0ad19cf95d09
+      internalID: 2014421833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_93
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99857929c78a40a4e9168471a0fc2322
+      internalID: 1129572917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_94
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeade63583ecf84ebd8f3c23e6371d7
+      internalID: -927793130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_95
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 86.6
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956a2f71ee80c84cac21c402d52d13a
+      internalID: 529938939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6dcf791c99fc24bbccacb513193c1e
+      internalID: 36267066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_97
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b0315fc7c37d148933b8885768f2a9
+      internalID: -813363406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75257241044b05149844f1d1056744b3
+      internalID: -1262563266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88412033003ae104da03d6411bf220c0
+      internalID: 588663568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_100
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f40bcc6f27114a89f919c3d61ccc2
+      internalID: -1141249878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b6fecfd420de43b5de11a92de8163
+      internalID: -1295205274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db93e9859f4aa4ca8cae1bd20f4903
+      internalID: -1190380026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_103
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be983bb9ce1ca4392691815a084f57
+      internalID: 1696313820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_104
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164cf6e820f7f44b90f9bfae300fc0e
+      internalID: -2071873679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_105
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62d01ac7fce4e34495ae6c0a9938d2a
+      internalID: 1000474150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4741b264ef572934a8ace10640df030a
+      internalID: 1138920444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3465accdf3aba954c93c3cce41825c61
+      internalID: -1626137344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_108
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd0a9cf06639142bb65d9f00e7ba14
+      internalID: 2074935741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_109
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f611bdf1be8d42bd3bd905fc7f6cf
+      internalID: -85358891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_110
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6cd226442a05499046beca9f3aa97
+      internalID: 1458642753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_111
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2ab51c12a59f4582b19bd5b5164ec
+      internalID: 864409266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_112
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a56c4943276fb48b96154c56131256
+      internalID: -1743364559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_113
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef88556cb5402734bb224642e06171f5
+      internalID: -1341257420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_114
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59835e5341656a46961dca9f5316312
+      internalID: -1103980690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_115
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a484bf363def94cae53a2748cce409
+      internalID: 278769430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_116
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f3ccffa165c044be720f50f495af0
+      internalID: -2100231522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_117
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7f52498705af46a960e51b0022831
+      internalID: 356623520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_118
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396072ec732b72a4fb18496b0c174996
+      internalID: -197488589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet example cropped_119
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1.5999985
+        width: 45.083332
+        height: 85.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa821e669d6ce644b84959f31283165f
+      internalID: 673231749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite sheet example cropped_0: 1399348094
+      sprite sheet example cropped_1: -869388317
+      sprite sheet example cropped_10: 830893690
+      sprite sheet example cropped_100: -1141249878
+      sprite sheet example cropped_101: -1295205274
+      sprite sheet example cropped_102: -1190380026
+      sprite sheet example cropped_103: 1696313820
+      sprite sheet example cropped_104: -2071873679
+      sprite sheet example cropped_105: 1000474150
+      sprite sheet example cropped_106: 1138920444
+      sprite sheet example cropped_107: -1626137344
+      sprite sheet example cropped_108: 2074935741
+      sprite sheet example cropped_109: -85358891
+      sprite sheet example cropped_11: 899092369
+      sprite sheet example cropped_110: 1458642753
+      sprite sheet example cropped_111: 864409266
+      sprite sheet example cropped_112: -1743364559
+      sprite sheet example cropped_113: -1341257420
+      sprite sheet example cropped_114: -1103980690
+      sprite sheet example cropped_115: 278769430
+      sprite sheet example cropped_116: -2100231522
+      sprite sheet example cropped_117: 356623520
+      sprite sheet example cropped_118: -197488589
+      sprite sheet example cropped_119: 673231749
+      sprite sheet example cropped_12: -1346311310
+      sprite sheet example cropped_13: -269616400
+      sprite sheet example cropped_14: -1386912122
+      sprite sheet example cropped_15: -1519119060
+      sprite sheet example cropped_16: 374874245
+      sprite sheet example cropped_17: 72128698
+      sprite sheet example cropped_18: -1764585450
+      sprite sheet example cropped_19: -1382787935
+      sprite sheet example cropped_2: -642913254
+      sprite sheet example cropped_20: 1480394549
+      sprite sheet example cropped_21: -902144509
+      sprite sheet example cropped_22: -1296764471
+      sprite sheet example cropped_23: 651438609
+      sprite sheet example cropped_24: -739331630
+      sprite sheet example cropped_25: -1777656913
+      sprite sheet example cropped_26: 5065605
+      sprite sheet example cropped_27: -320792709
+      sprite sheet example cropped_28: -532862327
+      sprite sheet example cropped_29: -1713991282
+      sprite sheet example cropped_3: -1920602969
+      sprite sheet example cropped_30: 518697200
+      sprite sheet example cropped_31: 1154697732
+      sprite sheet example cropped_32: -898115889
+      sprite sheet example cropped_33: -1722685545
+      sprite sheet example cropped_34: -1557181333
+      sprite sheet example cropped_35: 1139513522
+      sprite sheet example cropped_36: 1161738524
+      sprite sheet example cropped_37: -1219768078
+      sprite sheet example cropped_38: -1030642971
+      sprite sheet example cropped_39: -1329942734
+      sprite sheet example cropped_4: -401879599
+      sprite sheet example cropped_40: 1753087619
+      sprite sheet example cropped_41: -1219419767
+      sprite sheet example cropped_42: -187666469
+      sprite sheet example cropped_43: 1358252971
+      sprite sheet example cropped_44: 1110701178
+      sprite sheet example cropped_45: 758236321
+      sprite sheet example cropped_46: -1961968943
+      sprite sheet example cropped_47: 1024932683
+      sprite sheet example cropped_48: 1518624557
+      sprite sheet example cropped_49: -2037438990
+      sprite sheet example cropped_5: 2040416784
+      sprite sheet example cropped_50: 2007170114
+      sprite sheet example cropped_51: 449716341
+      sprite sheet example cropped_52: -692493764
+      sprite sheet example cropped_53: 1843379764
+      sprite sheet example cropped_54: -571001821
+      sprite sheet example cropped_55: -1781468357
+      sprite sheet example cropped_56: 574738929
+      sprite sheet example cropped_57: -1771948367
+      sprite sheet example cropped_58: -536170465
+      sprite sheet example cropped_59: 220557291
+      sprite sheet example cropped_6: -1088345516
+      sprite sheet example cropped_60: 1619041379
+      sprite sheet example cropped_61: -1712153663
+      sprite sheet example cropped_62: -840967664
+      sprite sheet example cropped_63: -199581314
+      sprite sheet example cropped_64: -2101246120
+      sprite sheet example cropped_65: -1756792613
+      sprite sheet example cropped_66: -998009352
+      sprite sheet example cropped_67: 1061631900
+      sprite sheet example cropped_68: -1612635589
+      sprite sheet example cropped_69: 1453622249
+      sprite sheet example cropped_7: -334346040
+      sprite sheet example cropped_70: -366251300
+      sprite sheet example cropped_71: 687011487
+      sprite sheet example cropped_72: -343393583
+      sprite sheet example cropped_73: 164334580
+      sprite sheet example cropped_74: 465929887
+      sprite sheet example cropped_75: -1987049004
+      sprite sheet example cropped_76: 1497769786
+      sprite sheet example cropped_77: -2094389363
+      sprite sheet example cropped_78: -1720614305
+      sprite sheet example cropped_79: 598433923
+      sprite sheet example cropped_8: -243971936
+      sprite sheet example cropped_80: -1073248534
+      sprite sheet example cropped_81: 537773386
+      sprite sheet example cropped_82: 262769023
+      sprite sheet example cropped_83: 1918541506
+      sprite sheet example cropped_84: -4654543
+      sprite sheet example cropped_85: 885750985
+      sprite sheet example cropped_86: -1155523174
+      sprite sheet example cropped_87: -1679751741
+      sprite sheet example cropped_88: 757996443
+      sprite sheet example cropped_89: -613598781
+      sprite sheet example cropped_9: 624223596
+      sprite sheet example cropped_90: 2080466594
+      sprite sheet example cropped_91: 720303933
+      sprite sheet example cropped_92: 2014421833
+      sprite sheet example cropped_93: 1129572917
+      sprite sheet example cropped_94: -927793130
+      sprite sheet example cropped_95: 529938939
+      sprite sheet example cropped_96: 36267066
+      sprite sheet example cropped_97: -813363406
+      sprite sheet example cropped_98: -1262563266
+      sprite sheet example cropped_99: 588663568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
